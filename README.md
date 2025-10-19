@@ -12,7 +12,7 @@
 
 **🌱 Currently Learning**
 
-📊 Power BI & Data Analysis
+- 📊 Power BI & Data Analysis
 
 - 📈 Business Analytics & Machine Learning
 
