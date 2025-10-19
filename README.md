@@ -28,7 +28,7 @@
 
 - AI/ML Implementation
 
-Business Analysis Insights
+- Business Analysis Insights
 
 **💬 Ask Me About**
 
